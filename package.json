@@ -8,9 +8,9 @@
     "linkedin": "https://www.linkedin.com/in/snigdha-rani-das-374054220/"
   },
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
+    "dev": "next dev --webpack",
+    "build": "next build --webpack",
+    "start": "next start --webpack",
     "lint": "next lint"
   },
   "dependencies": {
