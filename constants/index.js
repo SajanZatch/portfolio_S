@@ -332,16 +332,15 @@ const projects = [
     image:
      "/document/project1.jpeg",
       howItWorks: [
-      "Tracks candidate progression across multiple hiring stages",
-      "Monitors application status and interview feedback",
-      "Generates recruitment funnel reports and analytics",
-      "Provides clear visibility of candidate pipeline",
+      "Designed candidate tracking from sourcing to offer stage",
+      "Created a structured screening and evaluation system",
+      "Implemented automated data collection and filtering for efficient candidate management.",
+      "Organized data for real-time hiring visibility.",
     ],
     impact: [
-      "Reduced time-to-hire by 30%",
-      "Improved candidate tracking efficiency",
-      "Better data-driven hiring decisions",
-      "Enhanced team collaboration in recruitment",
+      "Reduced screening time by ~70%",
+      "Improved accuracy and decision-making",
+      "Enhanced hiring efficiency across roles.",
     ],
   },
   {
@@ -364,16 +363,14 @@ const projects = [
     ],
     image: "/document/project2.jpeg",
      howItWorks: [
-      "Tracks candidate progression across multiple hiring stages",
-      "Monitors application status and interview feedback",
-      "Generates recruitment funnel reports and analytics",
-      "Provides clear visibility of candidate pipeline",
+      "Maintains employee master data and attendance records in a structured format",
+      "Automates salary calculation, including earnings, deductions, and net pay",
+      "Generates organized salary summaries and reports for efficient payroll tracking",
     ],
     impact: [
-      "Reduced time-to-hire by 30%",
-      "Improved candidate tracking efficiency",
-      "Better data-driven hiring decisions",
-      "Enhanced team collaboration in recruitment",
+      "Simplified payroll and attendance management for small teams",
+      "Reduced manual errors in salary calculation",
+      "Improved visibility and control over employee records",
     ],
   },
   // {
